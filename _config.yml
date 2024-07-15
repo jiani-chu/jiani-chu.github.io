@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiani Chu's personal page"
 title_separator          : "-"
 name                     : &name "Jiani Chu"
 description              : &description "PhD student in Astronomy"
